@@ -1,0 +1,25 @@
+#contacts
+    .contacts.row
+        .title.title_black.contact-title Contact
+            span us
+        .col-lg-6.map
+            img(src='./img/map.jpg' alt='map')
+        .col-lg-6.address
+            .address__title Address
+            .address__descr Republic of Belarus, Minsk, Korzhenevskogo st,  28, 117
+            .address__title Call us or
+                button.btn-modal write something
+            ul.address__descr
+                li: a(href='tel:+375296609070') +375 29 660-90-70
+                li skype:
+                    a(href='https://join.skype.com/invite/meT0coPZtPsI')  koltungena
+        .contacts__modal
+            .close
+            .container.contacts__container
+                form.contacts__form.row
+                    .form-title.col-12 Let’s begin the conversation!
+                    .col-10.col-lg-4
+                        input#name(type='text' name='name' placeholder='Name' required)
+                        input#email(type='email' name='email' pattern='[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$' placeholder='E-mail' required)
+                        input#subject(type='text' name='subject' placeholder='Subject' required)
+                        input.btn.btn-submit(type='submit' value='Submit')
