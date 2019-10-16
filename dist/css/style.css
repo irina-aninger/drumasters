@@ -295,7 +295,7 @@ input:focus {
 
 #banner {
     height: 100vh;
-    background-image: url("../img/banner.png");
+    background-image: url("../img/banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;

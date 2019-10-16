@@ -23,10 +23,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/sass/style.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="343" column="14" lean-forward="true" selection-start-line="343" selection-start-column="14" selection-end-line="343" selection-end-column="14" />
+            <state relative-caret-position="324">
+              <caret line="208" column="16" lean-forward="true" selection-start-line="208" selection-start-column="16" selection-end-line="208" selection-end-column="16" />
               <folding>
-                <marker date="1571224631171" expanded="true" signature="6226:6246" ph="..." />
+                <marker date="1571225225134" expanded="true" signature="6226:6246" ph="..." />
               </folding>
             </state>
           </provider>
@@ -35,8 +35,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="841" lean-forward="true" selection-start-line="841" selection-end-line="841" />
+            <state relative-caret-position="283">
+              <caret line="953" column="37" lean-forward="true" selection-start-line="953" selection-start-column="37" selection-end-line="953" selection-end-column="37" />
+              <folding>
+                <element signature="e#5113#6288#2" expanded="true" />
+                <element signature="e#6424#7409#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2720">
+              <caret line="143" column="14" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -64,7 +77,6 @@
       <find>contact-title</find>
       <find>.title</find>
       <find>port</find>
-      <find>banner</find>
       <find>form-title</find>
       <find>btn</find>
       <find>slider__content</find>
@@ -83,6 +95,7 @@
       <find>webkit-backdrop-filter</find>
       <find>burg</find>
       <find>.slide-hidden</find>
+      <find>banner</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -240,15 +253,15 @@
       <workItem from="1571075680098" duration="34474000" />
       <workItem from="1571162759283" duration="10030000" />
       <workItem from="1571211008763" duration="5636000" />
-      <workItem from="1571216935935" duration="7733000" />
+      <workItem from="1571216935935" duration="8486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57873000" />
+    <option name="totallyTimeSpent" value="58626000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2895981" />
@@ -422,13 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="143" column="14" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/pug/block/header.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -436,20 +442,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="143" column="14" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/style.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="343" column="14" lean-forward="true" selection-start-line="343" selection-start-column="14" selection-end-line="343" selection-end-column="14" />
+        <state relative-caret-position="324">
+          <caret line="208" column="16" lean-forward="true" selection-start-line="208" selection-start-column="16" selection-end-line="208" selection-end-column="16" />
           <folding>
-            <marker date="1571224631171" expanded="true" signature="6226:6246" ph="..." />
+            <marker date="1571225225134" expanded="true" signature="6226:6246" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="841" lean-forward="true" selection-start-line="841" selection-end-line="841" />
+        <state relative-caret-position="283">
+          <caret line="953" column="37" lean-forward="true" selection-start-line="953" selection-start-column="37" selection-end-line="953" selection-end-column="37" />
+          <folding>
+            <element signature="e#5113#6288#2" expanded="true" />
+            <element signature="e#6424#7409#2" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
